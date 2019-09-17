@@ -1,0 +1,5 @@
+*.txt
+settings.py
+__pycache__/
+.vscode/
+env/
